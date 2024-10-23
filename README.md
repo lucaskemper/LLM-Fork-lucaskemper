@@ -12,7 +12,7 @@ I utilized existing features from the Lobe Chat repository to enable file upload
 ### 2. Multi-Model Service Provider Support
 I configured the framework to support multiple model service providers, such as **OpenAI** and **Anthropic's Claude**, enabling more flexibility and diversity in AI-driven conversations.
 
-### 3. Local Large Language Model (LLLM) Support
+### 3. (Local Large Language Model (LLLM) Support)
 I took advantage of the local LLM capabilities provided by the original project and modified the integration to work more efficiently for my specific needs. 
 
 ### 4. Optimizations
