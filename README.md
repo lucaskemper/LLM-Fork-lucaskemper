@@ -1,4 +1,4 @@
-## ***Code is currently private for security reasons***
+## Code is currently private for security reasons
 # LLM Framework (Customized Fork)
 **By Lucas Kemper, HEC Lausanne MSc Finance Student**
 
@@ -25,7 +25,7 @@ I implemented several optimizations to enhance the performance, security, and sc
 
 ### 5. Current Issues
 1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
-2. High API usage (OpenAI), not important at this point ----> solution: use cheaper model? worth it?
+2. High API usage (OpenAI)
 
 
 ### 6. RoadMap (in order of priority):
