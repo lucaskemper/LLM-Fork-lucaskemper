@@ -6,7 +6,7 @@ I'm developping  (started 20.10.2024) a customized version of **Lobe Chat**, an 
 
 ## Key Features of the Customized Version
 
-### 1. File Upload & Knowledge Base (need to fix upload of file, error: stuck on "preparing to upload file"
+### 1. File Upload & Knowledge Base 
 I utilized existing features from the Lobe Chat repository to enable file uploads and create a personalized knowledge base. This allows me to manage and search through various types of files, adapting the functionality for my specific use case.
 
 ### 2. Multi-Model Service Provider Support
@@ -19,12 +19,11 @@ I took advantage of the local LLM capabilities provided by the original project 
 I implemented several optimizations to enhance the performance, security, and scalability of the framework:
 - **Vercel**: Used **Vercel** for fast front-end hosting and seamless deployment workflows.
 - **Cloudflare**: Added **Cloudflare** for enhanced DNS management and security features like DDoS protection and CDN.
-- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. ---- Switch to AWS?????
+- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. 
 - **Clerk**: Used **Clerk** for secure user authentication and login via GitHub or Google.
-- Better integration for Ios (using Webkit)
  
 
-### 5. Issues
+### 5. Current Issues
 1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
 2. High API usage (OpenAI), not important at this point
 
@@ -37,7 +36,6 @@ I implemented several optimizations to enhance the performance, security, and sc
 5. Reduce Cost
 
    
-
 Through these modifications, I created a customized, private chatbot tailored to my unique requirements, while still benefiting from the robustness of the original open-source tools.
 
 
