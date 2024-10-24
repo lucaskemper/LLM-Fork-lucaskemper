@@ -27,7 +27,7 @@ I implemented several optimizations to enhance the performance, security, and sc
 
 
 ### 5. RoadMap (in order of priority):
-1. Implement pdf generator / python runtime into UI.
+1. Implement pdf generator / python runtime. 
 2. Implement OpenBB Integration
 3. Tailor the models to my needs (Financial Analysis, among other needs)
 4. Create / Implement local LLM 
