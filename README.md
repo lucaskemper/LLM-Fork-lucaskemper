@@ -13,7 +13,7 @@ I utilized existing features from the Lobe Chat repository to enable file upload
 I configured the framework to support multiple model service providers, such as **OpenAI** and **Anthropic's Claude**, enabling more flexibility and diversity in AI-driven conversations.
 
 
-### 4. Optimizations
+### 3. Optimizations
 I implemented several optimizations to enhance the performance, security, and scalability of the framework:
 - **Vercel**: Used **Vercel** for fast front-end hosting and seamless deployment workflows.
 - **Cloudflare**: Added **Cloudflare** for enhanced DNS management and security features like DDoS protection and CDN.
@@ -21,13 +21,13 @@ I implemented several optimizations to enhance the performance, security, and sc
 - **Clerk**: Used **Clerk** for secure user authentication and login via GitHub or Google.
  
 
-### 5. Current Issues
+### 4. Current Issues
 1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
 2. High API usage (OpenAI)
 
 
-### 6. RoadMap (in order of priority):
-1. Implement pdf generator / python code runtime into UI.
+### 5. RoadMap (in order of priority):
+1. Implement pdf generator / python runtime into UI.
 2. Implement OpenBB Integration
 3. Tailor the models to my needs (Financial Analysis, among other needs)
 4. Create / Implement local LLM 
