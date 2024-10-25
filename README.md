@@ -28,7 +28,7 @@ I implemented several optimizations to enhance the performance, security, and sc
 
 ### 5. RoadMap (in order of priority):
 1. Implement pdf generator / python runtime. 
-2. Implement OpenBB Integration (current progress: agents use all data from openbb to answer relatively complex queries. Model tested: Gpt4-o, overloads. 
+2. Implement OpenBB Integration (current progress: agents use all data/tools from openbb to answer relatively complex queries. Model tested: Gpt4-o, overloads. Currently experimenting with Claude's 3.5 Sonnet).
 3. Tailor the models to my needs (Financial Analysis, among other needs)
 4. Create / Implement local LLM 
 5. Reduce Cost
