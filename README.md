@@ -33,4 +33,4 @@ I am building a customized fork of **Lobe Chat**, an open-source UI framework fo
 
 This framework merges powerful open-source tools with custom enhancements to create a unique, private chatbot tailored for financial analysis and research.
 
-**Connect with Me**: Reach out on LinkedIn or email at lucas.kemper@unil.ch for collaboration or insights into this project.
+**Connect with Me**: [LinkedIn](https://www.linkedin.com/in/lucas-kemper/) or email at lucas.kemper@unil.ch for collaboration or insights into this project.
