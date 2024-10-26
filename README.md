@@ -43,12 +43,12 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **📊 Advanced Analysis Modules**: Introduce specialized models for financial forecasting, portfolio risk analysis, and sensitivity analysis.
    - **🔍 Data Quality Enhancements**: Develop a preprocessing pipeline to ensure consistency and accuracy across various financial data inputs.
 
-#### 📅 **Long-Term (6-12 Months)**:
+#### 📅 **Long-Term (1.5 - 6 Months)**:
    - **👥 Enhanced Multi-User Collaboration**: Allow multiple users to upload, search, and analyze data collaboratively in real time, supporting finance teams.
    - **🚨 Automated Investment Insights & Alerts**: Implement alerting mechanisms for notable trends or anomalies in real-time data.
    - **🔗 Extended API Partnerships**: Explore additional API integrations (e.g., Refinitiv, Bloomberg) to provide enriched data for comprehensive financial analysis.
 
-#### 🌐 **Future Innovations (12+ Months)**:
+#### 🌐 **Future Innovations (6+ Months)**:
    - **🧩 Integrated Financial Knowledge Graph**: Build a knowledge graph to uncover complex relationships between entities, events, and markets.
    - **🤖 Adaptive AI**: Employ reinforcement learning for the model to continuously improve based on past interactions and evolving financial contexts.
    - **🔒 Public/Private User Segmentation**: Develop user-access tiers, allowing tailored access to advanced financial insights based on user permissions.
