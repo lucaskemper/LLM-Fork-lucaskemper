@@ -14,9 +14,9 @@ I am building (started 20.10.2014) a customized fork of **Lobe Chat**, an open-s
    Configured the framework to interact with providers like OpenAI and Anthropic’s Claude, offering flexible, multi-provider AI solutions for financial queries.
 
 3. **Advanced Optimizations**:
-   - **Vercel**: Optimized for fast, reliable front-end deployment.
-   - **Cloudflare**: Added enhanced DNS, CDN, and DDoS protection.
-   - **MongoDB to AWS Migration**: Boosted data management efficiency by transitioning to AWS.
+   - **Vercel**: Optimized for fast, cost-effictive and reliable front-end deployment.
+   - **Cloudflare**: Added enhanced (DNS, CDN, and DDoS protection,...)
+   - **MongoDB**: Boosted data management efficiency by integrating MongoDB.
    - **Clerk Authentication**: Implemented secure, user-friendly login via GitHub and Google.
 
 ### **Current Challenges**:
