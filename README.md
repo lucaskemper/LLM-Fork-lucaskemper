@@ -1,47 +1,36 @@
-# CODE IS CURRENTLY PRIVATE FOR SECURTIY & PRIVACY REASONS 
-# LLM Framework (Customized Fork)
-**By Lucas Kemper, HEC Lausanne MSc Finance Student**
+### **Custom LLM Framework for Financial Analysis**
 
-I'm developping  (started 20.10.2024) a customized version of **Lobe Chat**, an open-source ChatGPT/LLMs UI/Framework, by leveraging various open-source projects from GitHub and tailoring them to meet my specific needs. Using **Lobe Chat** as a foundation, I integrated several features that enhanced the overall functionality and user experience for my personal project.
+*Lucas Kemper* – MSc Finance Student at HEC Lausanne
 
-## Key Features of the Customized Version
+I am building a customized fork of **Lobe Chat**, an open-source UI framework for large language models (LLMs), to advance applications of AI in financial analysis. This project integrates cutting-edge AI tools with specialized financial functionalities, enhancing the framework to perform complex data-driven tasks in finance and investment.
 
-### 1. File Upload & Knowledge Base (need to fix upload of file, error: stuck on "preparing to upload file"
-I utilized existing features from the Lobe Chat repository to enable file uploads and create a personalized knowledge base. This allows me to manage and search through various types of files, adapting the functionality for my specific use case.
+**Note**: *The code is currently private to ensure privacy and security as I refine and test the framework.*
 
-### 2. Multi-Model Service Provider Support
-I configured the framework to support multiple model service providers, such as **OpenAI** and **Anthropic's Claude**, enabling more flexibility and diversity in AI-driven conversations.
-
-
-
-### 3. Optimizations
-I implemented several optimizations to enhance the performance, security, and scalability of the framework:
-- **Vercel**: Used **Vercel** for fast front-end hosting and seamless deployment workflows.
-- **Cloudflare**: Added **Cloudflare** for enhanced DNS management and security features like DDoS protection and CDN.
-- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. Currently switching to AWS
-- **Clerk**: Used **Clerk** for secure user authentication and login via GitHub or Google.
-- Better integration for Ios (using Webkit)
- 
-
-### 4. Issues
-1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
-2. High API usage (OpenAI)
-3. Model Complexity: Context length isn't long enough
-
-
-### 5. RoadMap (in order of priority):
-1. Implement pdf generator / python code runtime into UI.
-2. Implement OpenBB Integration
-3. Tailor the models to my needs (Financial Analysis, among other needs)
-4. Create / Implement local LLM 
-5. Reduce Cost
-
+### **Core Features**:
+1. **File Upload & Knowledge Base**  
+   Created a personal knowledge repository with file upload and search functions, tailored for financial data and research materials (currently refining upload functionality).
    
+2. **Multi-Model Support**  
+   Configured the framework to interact with providers like OpenAI and Anthropic’s Claude, offering flexible, multi-provider AI solutions for financial queries.
 
-Through these modifications, I created a customized, private chatbot tailored to my unique requirements, while still benefiting from the robustness of the original open-source tools.
+3. **Advanced Optimizations**:
+   - **Vercel**: Optimized for fast, reliable front-end deployment.
+   - **Cloudflare**: Added enhanced DNS, CDN, and DDoS protection.
+   - **MongoDB to AWS Migration**: Boosted data management efficiency by transitioning to AWS.
+   - **Clerk Authentication**: Implemented secure, user-friendly login via GitHub and Google.
+   - **iOS Compatibility**: Enhanced integration using WebKit for seamless performance on Apple devices.
 
+### **Current Challenges**:
+- **API Cost Management**: Addressing high API usage to optimize costs.
+- **Model Complexity**: Working within current context length limitations for more complex queries.
+- **File Upload Bug**: Investigating network configuration for smoother file processing.
 
+### **Roadmap**:
+- **PDF Generation & Code Execution**: Embedding in the UI for on-demand report creation and real-time code execution.
+- **OpenBB Integration**: Bringing financial analysis tools directly into the chat interface for deeper investment insights.
+- **Customized Financial Models**: Developing local LLMs fine-tuned for financial contexts.
+- **Cost Reduction**: Implementing optimizations to control API expenses.
 
+This framework merges powerful open-source tools with custom enhancements to create a unique, private chatbot tailored for financial analysis and research.
 
-## Contact
-Feel free to connect with me on LinkedIn: [Lucas Kemper](https://www.linkedin.com/in/lucas-kemper) or reach out via email: lucas.kemper@unil.ch 
+**Connect with Me**: Reach out on LinkedIn or email at lucas.kemper@unil.ch for collaboration or insights into this project.
