@@ -1,3 +1,4 @@
+# CODE IS CURRENTLY PRIVATE FOR SECURTIY & PRIVACY REASONS 
 # LLM Framework (Customized Fork)
 **By Lucas Kemper, HEC Lausanne MSc Finance Student**
 
@@ -11,24 +12,23 @@ I utilized existing features from the Lobe Chat repository to enable file upload
 ### 2. Multi-Model Service Provider Support
 I configured the framework to support multiple model service providers, such as **OpenAI** and **Anthropic's Claude**, enabling more flexibility and diversity in AI-driven conversations.
 
-### 3. Local Large Language Model (LLLM) Support
-I took advantage of the local LLM capabilities provided by the original project and modified the integration to work more efficiently for my specific needs. 
 
-### 4. Optimizations
+
+### 3. Optimizations
 I implemented several optimizations to enhance the performance, security, and scalability of the framework:
 - **Vercel**: Used **Vercel** for fast front-end hosting and seamless deployment workflows.
 - **Cloudflare**: Added **Cloudflare** for enhanced DNS management and security features like DDoS protection and CDN.
-- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. ---- Switch to AWS?????
+- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. ---- Switch to AWS
 - **Clerk**: Used **Clerk** for secure user authentication and login via GitHub or Google.
 - Better integration for Ios (using Webkit)
  
 
-### 5. Issues
+### 4. Issues
 1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
 2. High API usage (OpenAI), not important at this point
 
 
-### 6. RoadMap (in order of priority):
+### 5. RoadMap (in order of priority):
 1. Implement pdf generator / python code runtime into UI.
 2. Implement OpenBB Integration
 3. Tailor the models to my needs (Financial Analysis, among other needs)
