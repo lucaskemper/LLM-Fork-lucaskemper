@@ -18,7 +18,6 @@ I am building a customized fork of **Lobe Chat**, an open-source UI framework fo
    - **Cloudflare**: Added enhanced DNS, CDN, and DDoS protection.
    - **MongoDB to AWS Migration**: Boosted data management efficiency by transitioning to AWS.
    - **Clerk Authentication**: Implemented secure, user-friendly login via GitHub and Google.
-   - **iOS Compatibility**: Enhanced integration using WebKit for seamless performance on Apple devices.
 
 ### **Current Challenges**:
 - **API Cost Management**: Addressing high API usage to optimize costs.
