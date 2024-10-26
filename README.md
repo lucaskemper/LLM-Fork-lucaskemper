@@ -1,6 +1,7 @@
 ### **Custom LLM Framework for Financial Analysis (Public Version)**
 
 *Lucas Kemper* – First Year MScFin Student at HEC Lausanne, Switzerland
+
 **📄 Resume**: My detailed resume is also available in this repository.
 
 
