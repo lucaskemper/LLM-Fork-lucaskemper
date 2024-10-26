@@ -20,9 +20,12 @@ I am developing a customized fork of Lobe Chat, an open-source UI framework for 
    - **Clerk Authentication**: Implemented secure, user-friendly login via GitHub and Google.
 
 ### **Current Challenges**:
-- **API Cost Management**: Addressing high API usage to optimize costs.
 - **Model Complexity**: Working within current context length limitations of currently publicly available models (Gpt4o & Claude's 3.5 Sonnet) for more complex queries.
 - **File Upload Bug**: Investigating network configuration for smoother file processing.
+- **API Cost Management**: Addressing high API usage to optimize costs.
+- **Data Quality**: Ensuring accurate and reliable data inputs to maintain high-quality analysis, particularly when processing diverse financial datasets.
+
+
 
 ### **Roadmap**:
 - **PDF Generation & Code Execution**: Embedding in the UI for on-demand report creation and real-time code execution.
