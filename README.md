@@ -26,7 +26,7 @@ I am building a customized fork of **Lobe Chat**, an open-source UI framework fo
 
 ### **Roadmap**:
 - **PDF Generation & Code Execution**: Embedding in the UI for on-demand report creation and real-time code execution.
-- **OpenBB Integration**: Bringing financial analysis tools directly into the chat interface for deeper investment insights.
+- **OpenBB Integration (In Progress)**: Bringing financial analysis tools directly into the chat interface for deeper investment insights.
 - **Customized Financial Models**: Developing local LLMs fine-tuned for financial contexts.
 - **Cost Reduction**: Implementing optimizations to control API expenses.
 
