@@ -14,7 +14,7 @@ Driven by a passion for quantitative finance, AI, and LLMs, I am developing a cu
    Created a personal knowledge repository with file upload and search functions, tailored for financial data and research materials (currently refining upload functionality).
    
 2. **Multi-Model Support**  
-   Configured the framework to interact with providers like OpenAI and Anthropic’s Claude, offering flexible, multi-provider AI solutions. 
+   Configured the framework to interact with providers like OpenAI and Anthropic, offering flexible, multi-provider AI solutions. 
 
 3. **Advanced Optimizations**:
    - **(Vercel)**: Optimized for fast, cost-effictive and reliable front-end deployment. Switching to AWS for better stability ⏳
