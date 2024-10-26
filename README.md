@@ -19,7 +19,7 @@ Driven by a passion for quantitative finance, AI, and LLM, I am developing a cus
 3. **Advanced Optimizations**:
    - **Vercel**: Optimized for fast, cost-effictive and reliable front-end deployment.
    - **Cloudflare**: Added enhanced (DNS, CDN, and DDoS protection,...)
-   - **MongoDB**: Boosted data management efficiency by integrating MongoDB. (Switching to AVS, migration successful)
+   - **MongoDB**: Boosted data management efficiency by integrating MongoDB. (Switching to AWS (PostgreSQL). Migration successful ✅
    - **Clerk Authentication**: Implemented secure, user-friendly login via GitHub and Google.
 
 ### **Current Challenges**:
