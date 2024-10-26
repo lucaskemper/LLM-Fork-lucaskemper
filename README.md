@@ -44,4 +44,4 @@ Through these modifications, I created a customized, private chatbot tailored to
 
 
 ## Contact
-Feel free to connect with me on LinkedIn: [Lucas Kemper](https://www.linkedin.com/in/lucas-kemper)
+Feel free to connect with me on LinkedIn: [Lucas Kemper](https://www.linkedin.com/in/lucas-kemper) or reach out via email: lucas.kemper@unil.ch 
