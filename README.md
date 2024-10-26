@@ -25,7 +25,8 @@ I implemented several optimizations to enhance the performance, security, and sc
 
 ### 4. Issues
 1. Can't Upload files (Error: please check your network connection and ensure that the file storage service's cross-origin configuration is correct)
-2. High API usage (OpenAI), not important at this point
+2. High API usage (OpenAI)
+3. Model Complexity: Context length isn't long enough
 
 
 ### 5. RoadMap (in order of priority):
