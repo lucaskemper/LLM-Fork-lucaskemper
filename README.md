@@ -20,7 +20,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
 3. **🚀 Advanced Infrastructure Optimizations**:
    - **Vercel**: Front-end deployment optimized for speed and cost efficiency; transitioning to **AWS** for enhanced performance and security. ⏳
    - **Cloudflare**: Added comprehensive security with **DNS, CDN,** and **DDoS** protection.
-   - **MongoDB to AWS Migration**: Migrated database from **MongoDB** to **AWS PostgreSQL** for enhanced data management efficiency.
+   - **MongoDB to AWS Migration**: Migrated database from **MongoDB** to **AWS PostgreSQL** for enhanced data management efficiency. ✅
    - **Clerk Authentication**: Implemented secure, multi-provider login through **GitHub** and **Google**.
 
 ### 🧩 **Current Challenges**:
