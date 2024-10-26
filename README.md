@@ -53,8 +53,4 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **🤖 Adaptive AI**: Employ reinforcement learning for the model to continuously improve based on past interactions and evolving financial contexts.
    - **🔒 Public/Private User Segmentation**: Develop user-access tiers, allowing tailored access to advanced financial insights based on user permissions.
 
----
-
-This roadmap transforms this project into a high-impact, scalable framework, offering robust solutions for financial analysis and fostering collaboration in quantitative finance.
-
 **📬 Connect with Me**: [LinkedIn](https://rebrand.ly/2ods4c7) or [email me](mailto:lucas.kemper@unil.ch) to collaborate or learn more.
