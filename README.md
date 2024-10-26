@@ -33,12 +33,12 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
 
 ### 🛤️ **Project Roadmap**:
 
-#### 🚩 **Short-Term (0-3 Months)**:
+#### 🚩 **Short-Term (0- 0.5 Months)**:
    - **📑 PDF Generation & Code Execution ✅**: Embedding functionalities for on-demand report generation and real-time code execution.
    - **📈 OpenBB Integration ⏳**: Integrate OpenBB for in-chat quantitative finance tools, facilitating deeper investment insights and the potential for AI-driven trading strategy recommendations.
    - **💡 Cost Optimization Measures**: Experiment with caching strategies and intelligent API call routing to minimize expenses while maintaining performance.
 
-#### 🔜 **Mid-Term (3-6 Months)**:
+#### 🔜 **Mid-Term (0.5 - 1.5 Months)**:
    - **🧠 Custom Financial LLM Models**: Fine-tune local LLMs specifically for financial contexts, reducing reliance on external APIs and enhancing response accuracy.
    - **📊 Advanced Analysis Modules**: Introduce specialized models for financial forecasting, portfolio risk analysis, and sensitivity analysis.
    - **🔍 Data Quality Enhancements**: Develop a preprocessing pipeline to ensure consistency and accuracy across various financial data inputs.
