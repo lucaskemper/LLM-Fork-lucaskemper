@@ -2,7 +2,7 @@
 
 *Lucas Kemper* – First Year MScFin Student at HEC Lausanne, Switzerland
 
-I am developing a customized fork of Lobe Chat, an open-source UI framework for large language models (LLMs), to advance applications of AI in financial analysis. This project, initiated on October 20, 2024, integrates cutting-edge AI tools with specialized financial functionalities to handle complex data-driven tasks in finance and investment.
+Driven by a passion for quantitative finance, AI, and advancing LLM technology, I am developing a customized fork of Lobe Chat, an open-source UI framework for large language models (LLMs), to advance applications of AI in financial analysis. This project, initiated on October 20, 2024, integrates cutting-edge AI tools with specialized financial functionalities to handle complex data-driven tasks in finance and investment.
 
 **Note**: *The code is currently private to ensure privacy and security as I refine and test the framework.*
 
