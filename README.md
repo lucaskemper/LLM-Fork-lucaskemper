@@ -1,8 +1,10 @@
-### **Custom LLM Framework for Financial Analysis**
+### **Custom LLM Framework for Financial Analysis (Public Version)**
 
 *Lucas Kemper* – First Year MScFin Student at HEC Lausanne, Switzerland
 
 Driven by a passion for quantitative finance, AI, and LLM, I am developing a customized fork of Lobe Chat, an open-source UI framework for large language models (LLMs), to advance applications of AI in financial analysis. This project, initiated on October 20, 2024, integrates cutting-edge AI tools with specialized financial functionalities to handle complex data-driven tasks in finance and investment.
+
+**📄 Resume Available**: My detailed resume is also available in this repository.
 
 **Note**: *The code is currently private to ensure privacy and security as I refine and test the framework.*
 
