@@ -6,6 +6,8 @@ I am building a customized fork of **Lobe Chat**, an open-source UI framework fo
 
 **Note**: *The code is currently private to ensure privacy and security as I refine and test the framework.*
 
+**📄 Resume Available**: My detailed resume is also available in this repository.
+
 ### **Core Features**:
 1. **File Upload & Knowledge Base**  
    Created a personal knowledge repository with file upload and search functions, tailored for financial data and research materials (currently refining upload functionality).
