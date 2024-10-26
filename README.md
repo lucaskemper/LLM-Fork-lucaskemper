@@ -18,7 +18,7 @@ I configured the framework to support multiple model service providers, such as 
 I implemented several optimizations to enhance the performance, security, and scalability of the framework:
 - **Vercel**: Used **Vercel** for fast front-end hosting and seamless deployment workflows.
 - **Cloudflare**: Added **Cloudflare** for enhanced DNS management and security features like DDoS protection and CDN.
-- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. ---- Switch to AWS
+- **MongoDB**: Integrated **MongoDB** for managing data storage and retrieval efficiently across the system. Currently switching to AWS
 - **Clerk**: Used **Clerk** for secure user authentication and login via GitHub or Google.
 - Better integration for Ios (using Webkit)
  
