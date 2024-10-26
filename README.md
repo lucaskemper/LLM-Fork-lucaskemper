@@ -2,7 +2,7 @@
 
 *Lucas Kemper* – First Year MScFin Student at HEC Lausanne, Switzerland
 
-**📄 Resume**: My detailed resume is also available in this repository.
+**📄 Resume**: My detailed [resume](https://rebrand.ly/f6nwr7j)  is also available in this repository.
 
 
 Driven by a passion for quantitative finance, AI, and LLM, I am developing a customized fork of Lobe Chat, an open-source UI framework for large language models (LLMs), to advance applications of AI in financial analysis. This project, initiated on October 20, 2024, integrates cutting-edge AI tools with specialized financial functionalities to handle complex data-driven tasks in finance and investment.
