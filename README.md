@@ -21,7 +21,7 @@ I am building a customized fork of **Lobe Chat**, an open-source UI framework fo
 
 ### **Current Challenges**:
 - **API Cost Management**: Addressing high API usage to optimize costs.
-- **Model Complexity**: Working within current context length limitations for more complex queries.
+- **Model Complexity**: Working within current context length limitations of currently publicly available models (Gpt4o & Claude's 3.5 Sonnet) for more complex queries.
 - **File Upload Bug**: Investigating network configuration for smoother file processing.
 
 ### **Roadmap**:
