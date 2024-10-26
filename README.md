@@ -32,8 +32,8 @@ Driven by a passion for quantitative finance, AI, and LLM, I am developing a cus
 
 ### **Roadmap**:
 - **PDF Generation & Code Execution ✅**: Embedding in the UI for on-demand report creation and real-time code execution. 
-- **OpenBB Integration (In Progress)**: Bringing financial analysis tools directly into the chat interface (using AI agents) for deeper investment insights. And possibly trading strategies.
-- **Customized Financial Models(In progress)**: Developing local LLMs fine-tuned for financial contexts.
+- **OpenBB Integration ⏳ **: Bringing financial analysis tools directly into the chat interface (using AI agents) for deeper investment insights. And possibly trading strategies.
+- **Customized Financial Models ⏳ **: Developing local LLMs fine-tuned for financial contexts.
 - **Cost Reduction**: Implementing optimizations to control API expenses.
 
 This framework merges powerful open-source tools with custom enhancements to create a unique, private chatbot tailored for financial analysis and research.
