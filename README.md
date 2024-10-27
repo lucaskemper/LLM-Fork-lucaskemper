@@ -24,7 +24,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **Clerk Authentication**: Implemented secure, multi-provider login through **GitHub** and **Google**.✅
 
 ### 🧩 **Current Challenges**:
-- **📉 Model Complexity Constraints**: Addressing limitations in context length for complex financial queries.
+- **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (using Hugging Face).
 - **⚙️ File Upload Bug ✅**: Finalizing network configurations for seamless file processing.
 - **💸 API Cost Optimization**: Focusing on cost-efficient API usage.
 - **📊 Data Quality Assurance ⏳**: Enhancing data input accuracy, essential for quality financial analysis.
@@ -39,7 +39,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **💡 Cost Optimization Measures**: Experiment with caching strategies and intelligent API call routing to minimize expenses while maintaining performance.
 
 #### 🔜 **Mid-Term (0.5 - 1.5 Months)**:
-   - **🧠 Custom Financial LLM Models**: Fine-tune local LLMs specifically for financial contexts, reducing reliance on external APIs and enhancing response accuracy.
+   - **🧠 Custom Financial LLM Models ⏳**: Fine-tune local LLMs specifically for financial contexts, reducing reliance on external APIs and enhancing response accuracy (currently experimenting with Hugging Face)
    - **📊 Advanced Analysis Modules**: Introduce specialized models for financial forecasting, portfolio risk analysis, and sensitivity analysis.
    - **🔍 Data Quality Enhancements**: Develop a preprocessing pipeline to ensure consistency and accuracy across various financial data inputs.
 
