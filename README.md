@@ -26,7 +26,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
 ### 🧩 **Current Challenges**:
 - **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (using Hugging Face).
 - **⚙️ File Upload Bug ✅**: Finalizing network configurations for seamless file processing.
-- **💸 API Cost Optimization**: Focusing on cost-efficient API usage.
+- **💸 API Cost Optimization ⏳**: Focusing on cost-efficient API usage (experimenting with Antropic's "Computer Use"
 - **📊 Data Quality Assurance ⏳**: Enhancing data input accuracy, essential for quality financial analysis.
 
 ---
