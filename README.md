@@ -4,7 +4,7 @@
 
 📄 **Resume**: Access my detailed [resume](https://rebrand.ly/f6nwr7j) here.
 
-Other project: [Exploring New AI Boundaries with the Claude Computer Use API](https://github.com/lucaskemper/LLM-lucaskemper-Public/blob/main/Claude_research.md)
+Other project: [Exploring New AI Boundaries with the Claude Computer Use API]((https://rebrand.ly/onwl26j))
 
 
 Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am customizing a fork of **Lobe Chat** to develop an innovative AI-powered framework for advanced financial analysis. Initiated on *October 20, 2024*, this project integrates state-of-the-art AI tools with finance-specific features designed to streamline data-driven analysis in **finance, investment,** and **accounting**.
@@ -25,7 +25,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **Clerk Authentication**: Implemented secure, multi-provider login through **GitHub** and **Google**.✅
 
 ### 🧩 **Current Challenges**:
-- **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (currently experimenting with **Hugging Face** and [Anthropic's Computer Use](https://github.com/lucaskemper/LLM-lucaskemper-Public/blob/main/Claude_research.md)).
+- **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (currently experimenting with **Hugging Face** and [Anthropic's Computer Use]([https://github.com/lucaskemper/LLM-lucaskemper-Public/blob/main/Claude_research.md](https://rebrand.ly/onwl26j)).
 - **⚙️ File Upload Bug ✅**: Finalizing network configurations for seamless file processing.
 - **💸 API Cost Optimization**: Focusing on cost-efficient API usage.
 - **📊 Data Quality Assurance**: Enhancing data input accuracy, essential for quality financial analysis.
