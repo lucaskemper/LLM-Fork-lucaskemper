@@ -38,7 +38,7 @@ Through an intensive investigation of Anthropic's Claude Computer Use API, this 
 - **Input:** 3,137,641 tokens
 - **Output:** 55,216 tokens
 - **Input/Output Ratio:** 58.248515
-- **Timeframe:** ~3 hours
+- **Timeframe:** ~20 minutes
 
 #### Resource Optimization:
 - **Memory Management**
