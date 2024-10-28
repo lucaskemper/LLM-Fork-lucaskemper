@@ -1,13 +1,15 @@
 # **Exploring New AI Boundaries with the Claude Computer Use API – Intriguing Insights**  
 *27.10.2024, Lucas Kemper*
-Started experiment on 27.10.2024
+
+
+(Started experiment on 27.10.2024)
 ---
 
 ### Note
 This research was conducted in a **secure**, controlled environment, adhering to rigorous safety and security protocols throughout the process (**VM, strict firewall, etc.**).
 
 ### Overview
-With the recent release of the **Claude Computer Use API** from Anthropic, I seized the opportunity to push its capabilities to their limits. Without any prior experience in web development, I successfully orchestrated the creation of a complex, multi-component website in record time. The results were astounding, unveiling profound insights into both the potential and constraints of AI within a highly advanced technological landscape. This experiment exposed patterns and behaviors that suggest an AI on the edge of autonomous functionality, prompting fascinating questions about the boundaries of this groundbreaking API.
+With the recent release of the **Claude Computer Use API** from Anthropic, I seized the opportunity to push its capabilities to their limits. Without any prior experience in web development, I successfully orchestrated the creation of a complex, multi-component website in record time. The results were astounding, unveiling profound insights into AI's potential and constraints within a highly advanced technological landscape. This experiment exposed patterns and behaviors that suggest an AI on the edge of autonomous functionality, prompting fascinating questions about the boundaries of this groundbreaking API.
 
 ### Key Observations
 
