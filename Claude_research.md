@@ -30,5 +30,39 @@ The new Claude Computer Use API is opening doors to a deeper level of human-AI c
 This test case reveals that the Claude Computer Use API can unlock capabilities closer to semi-autonomous behavior, provided it’s used within defined boundaries and with sufficient user oversight. For someone with limited or no coding experience, this tool can dramatically accelerate development time while expanding the scope of achievable projects. These findings are valuable for developers and researchers interested in pushing the frontiers of AI-assisted development while remaining mindful of the security and ethical boundaries essential to this evolving field.
 
 ### Data: total tokens in: 3'137'641 total tokens out: 55'216 
-... still in redaction
+
 note: env file has the following variables: openBB pat (API) key, HuggingFace api key, OpenAi api Key 
+
+Analysis of package.json file (in progress):
+Dependencies:
+@headlessui/vue - "^1.7.0"
+@heroicons/vue - "^2.0.0"
+@vueuse/core - "^10.0.0"
+aos - "^2.3.4"
+axios - "^1.5.0"
+chart.js - "^4.0.0"
+d3 - "^7.0.0"
+date-fns - "^2.30.0"
+dompurify - "^3.0.0"
+marked - "^9.0.0"
+three - "^0.157.0"
+vue - "^3.3.0"
+vue-router - "^4.2.0"
+websocket - "^1.0.34"
+,....
+
+Dev Dependencies:
+@tailwindcss/aspect-ratio - "^0.4.0"
+@tailwindcss/forms - "^0.5.0"
+@tailwindcss/typography - "^0.5.0"
+@vitejs/plugin-vue - "^4.3.0"
+autoprefixer - "^10.4.0"
+eslint - "^8.49.0"
+eslint-plugin-vue - "^9.17.0"
+postcss - "^8.4.0"
+prettier - "^3.0.0"
+tailwindcss - "^3.3.0"
+terser - "^5.36.0"
+vite - "^4.4.0"
+,.....
+... still in redaction
