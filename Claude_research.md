@@ -7,7 +7,7 @@
 Research conducted under stringent security protocols:
 
 - **Virtualized environment**
-- **Firewall configuration**
+- **Strict Firewall configuration**
 - **Access control**
 - **System isolation**
 
