@@ -25,7 +25,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **Clerk Authentication**: Implemented secure, multi-provider login through **GitHub** and **Google**.✅
 
 ### 🧩 **Current Challenges**:
-- **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (currently experimenting with **Hugging Face** and [Anthropic's Computer Use](https://rebrand.ly/onwl26j).
+- **📉 Model Complexity Constraints ⏳**: Addressing limitations in context length for complex financial queries (currently experimenting with **Hugging Face** and [Anthropic's Computer Use](https://rebrand.ly/onwl26j)).
 - **⚙️ File Upload Bug ✅**: Finalizing network configurations for seamless file processing.
 - **💸 API Cost Optimization**: Focusing on cost-efficient API usage.
 - **📊 Data Quality Assurance**: Enhancing data input accuracy, essential for quality financial analysis.
