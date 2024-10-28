@@ -31,3 +31,4 @@ This test case reveals that the Claude Computer Use API can unlock capabilities 
 
 ### Data: total tokens in: 3'137'641 total tokens out: 55'216 
 ... still in redaction
+note: env file has the following variables: openBB pat (API) key, HuggingFace api key, OpenAi api Key
