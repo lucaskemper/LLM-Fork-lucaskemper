@@ -4,9 +4,9 @@
 
 **NOTE: STILL IN REDACTION**
 
-## CRITICAL SECURITY NOTICE
+## IMPORTANT SECURITY NOTICE
 
-Research conducted under stringent security protocols:
+Research conducted under strict security protocols:
 
 - **Virtualized environment**
 - **Strict Firewall configuration**
