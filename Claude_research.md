@@ -1,6 +1,6 @@
 **Title: Exploring New AI Boundaries with the Claude Computer Use API – Intriguing Insights** (27.10.2024, Lucas Kemper)
 
-### Note: This research was conducted in a secure, controlled environment, adhering to rigorous safety and security protocols throughout the process.
+### Note: This research was conducted in a secure, controlled environment, adhering to rigorous safety and security protocols throughout the process (VM, strict firewall,...)
 
 ### Overview
 With the recent release of the **Claude Computer Use API** from Anthropic, I had the opportunity to experiment with Claude 3.5 Sonnet’s capabilities. Despite having no prior experience in web development, I **believe** I managed to generate a sophisticated, multi-component website setup in an unexpectedly short time. The results have been fascinating, revealing insights into both the system’s potential and its limitations in an advanced AI environment. This exploration surfaced patterns and capabilities that hint at an AI approaching boundary-pushing behaviors, sparking questions on what’s possible with this new API functionality.
