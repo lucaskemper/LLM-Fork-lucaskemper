@@ -40,7 +40,7 @@ Through an intensive investigation of Anthropic's Claude Computer Use API (model
 - **Input:** 3,137,641 tokens
 - **Output:** 55,216 tokens
 - **Input/Output Ratio:** 58.248515
-- **Total API Cost:**
+- **Total API Cost:** $ 2.70
 
 #### Resource Optimization:
 - **Memory Management**
