@@ -158,7 +158,7 @@ This investigation demonstrates unprecedented capabilities in AI-assisted develo
 
 - **Input Processing**: 3,137,641 tokens
 - **Output Generation**: 55,216 tokens
-- **Efficiency Ratio**: 58.248515
+- **Input/Output Ratio**: 58.248515
 
 ## Security Protocols
 
