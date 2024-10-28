@@ -148,7 +148,7 @@ project/
 This investigation presented unique challenges in managing complex system interactions while maintaining security protocols. Key learnings include:
 - The importance of robust monitoring systems.
 - The need for careful API integration management.
-- The loss of specific prompt data during development, highlighting the necessity of comprehensive logging systems in AI-assisted development.
+- The loss of specific prompt data during development highlights the necessity of comprehensive logging systems in AI-assisted development.
 
 # Conclusion
 
