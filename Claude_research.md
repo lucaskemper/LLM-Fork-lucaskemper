@@ -37,7 +37,7 @@ Through an intensive investigation of Anthropic's Claude Computer Use API, this 
 #### Token Efficiency:
 - **Input:** 3,137,641 tokens
 - **Output:** 55,216 tokens
-- **Efficiency Ratio:** 58.248515
+- **Input/Output Ratio:** 58.248515
 - **Timeframe:** ~3 hours
 
 #### Resource Optimization:
