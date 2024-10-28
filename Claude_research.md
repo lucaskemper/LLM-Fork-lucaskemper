@@ -5,7 +5,7 @@ With the recent release of the **Claude Computer Use API** from Anthropic, I had
 1. **Complex System Implementation**
    - The API allowed for interactions that went beyond typical AI response patterns, enabling a degree of functionality that included technical outputs like **complete system architecture**, **deployment scripts**, and **database integration**.
    - This setup resulted in a multi-component infrastructure with frontend, backend API, database, and caching layers. What’s remarkable is that it took **only 20 minutes of actual AI coding** to generate the entire codebase, with the full setup completed in just 96 hours. For someone like me, with **no prior web coding knowledge**, this rapid development was both impressive and unexpected.
-   - Currently, I’m in the process of cleaning up the website it built, which contains **over 50 MB of code**. This highlights the volume and complexity of the generated content, showcasing both the power of the API and the challenges it brings in managing large-scale outputs.
+   - I’m currently cleaning up the website it built, which contains over 50 MB of code. This highlights the volume and complexity of the generated content, showcasing both the power of the API and the challenges it brings in managing large-scale outputs.
 2. **Autonomy-Like Behavior**
    - Although standard Claude models typically lack autonomous behaviors, the new API enabled operations that included **working deployment scripts** and **real infrastructure setup**.
    - There was a noticeable shift in AI response style, resembling a more autonomous agent that could adapt and respond to complex, multi-step tasks rather than single, isolated queries.
@@ -22,7 +22,11 @@ With the recent release of the **Claude Computer Use API** from Anthropic, I had
 ### Current Challenges
 One challenge I’m currently facing is **locating the exact prompt that triggered this build**. Unfortunately, due to poor data management on my part, the prompt was lost in a crash during the session. Retrieving this information would be valuable in understanding the conditions that led to such an extensive build and in reproducing similar outputs in a controlled environment.
 ### Implications for the AI Community
+
 The new Claude Computer Use API is opening doors to a deeper level of human-AI collaboration, allowing complex, technical tasks that previously required extensive human intervention. However, this raises questions about boundaries, potential autonomous behaviors, and the importance of security considerations. Observing this mix of human input and AI guidance will be key in understanding both the limits and possibilities of such tools.
----
+
 ### Conclusion
+
 This test case reveals that the Claude Computer Use API can unlock capabilities closer to semi-autonomous behavior, provided it’s used within defined boundaries and with sufficient user oversight. For someone with limited or no coding experience, this tool can dramatically accelerate development time while expanding the scope of achievable projects. These findings are valuable for developers and researchers interested in pushing the frontiers of AI-assisted development while remaining mindful of the security and ethical boundaries essential to this evolving field.
+
+### Data: total tokens in: 3'137'641 total tokens out: 55'216 
