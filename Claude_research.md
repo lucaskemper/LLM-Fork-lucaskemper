@@ -4,7 +4,7 @@ With the recent release of the **Claude Computer Use API** from Anthropic, I had
 ### Key Observations
 1. **Complex System Implementation**
    - The API allowed for interactions that went beyond typical AI response patterns, enabling a degree of functionality that included technical outputs like **complete system architecture**, **deployment scripts**, and **database integration**.
-   - This setup resulted in a multi-component infrastructure with frontend, backend API, database, and caching layers. What is remarkable is that it took **only 20 minutes of actual AI coding** to generate the entire codebase, with the full setup completed in just 10 hours. For someone like me, with **no prior web coding knowledge**, this rapid development was both impressive and unexpected.
+   - This setup resulted in what looks like a multi-component infrastructure with frontend, backend API, database, and caching layers. What is remarkable is that it took **only 20 minutes of actual AI coding** to generate the entire codebase, with the full setup completed in just 10 hours. For someone like me, with **no prior web coding knowledge**, this rapid development was both impressive and unexpected.
    - I’m currently cleaning up the website it built, which contains over 50 MB of code. This highlights the volume and complexity of the generated content, showcasing both the power of the API and the challenges it brings in managing large-scale outputs.
 2. **Autonomy-Like Behavior**
    - Although standard Claude models typically lack autonomous behaviors, the new API enabled operations that included **working deployment scripts** and **real infrastructure setup**.
