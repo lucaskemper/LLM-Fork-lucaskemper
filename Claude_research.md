@@ -30,3 +30,4 @@ The new Claude Computer Use API is opening doors to a deeper level of human-AI c
 This test case reveals that the Claude Computer Use API can unlock capabilities closer to semi-autonomous behavior, provided it’s used within defined boundaries and with sufficient user oversight. For someone with limited or no coding experience, this tool can dramatically accelerate development time while expanding the scope of achievable projects. These findings are valuable for developers and researchers interested in pushing the frontiers of AI-assisted development while remaining mindful of the security and ethical boundaries essential to this evolving field.
 
 ### Data: total tokens in: 3'137'641 total tokens out: 55'216 
+... still in redaction
