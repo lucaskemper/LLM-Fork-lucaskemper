@@ -1,4 +1,4 @@
-# Exploring New AI Boundaries with the Claude Computer Use API – Pioneering Insights
+# Exploring New AI Boundaries with the Claude Computer Use API
 
 **October 27, 2024 | Lucas Kemper | MScFin Student, HEC Lausanne**
 
@@ -15,7 +15,7 @@ Research conducted under stringent security protocols:
 
 ## Overview
 
-Through an intensive investigation of Anthropic's Claude Computer Use API, this research documents extraordinary developments in AI-assisted system creation. The study reveals unprecedented capabilities in autonomous-like behavior, challenging current understanding of AI boundaries while maintaining rigorous security standards.
+Through an intensive investigation of Anthropic's Claude Computer Use API (model used: **claude-3-5-sonnet-20241022**), this research documents extraordinary developments in AI-assisted system creation. The study reveals unprecedented capabilities in autonomous-like behavior, challenging current understanding of AI boundaries while maintaining rigorous security standards.
 
 ## Technical Achievement Analysis
 
@@ -24,7 +24,7 @@ Through an intensive investigation of Anthropic's Claude Computer Use API, this 
 #### Temporal Metrics:
 - **Core Development:** 20 minutes
 - **Full Implementation:** 10 hours
-- **Codebase Volume:** 50MB+
+- **Codebase Volume:** 150+ mb
 - **Architecture:** Multi-service deployment
 
 #### Components:
