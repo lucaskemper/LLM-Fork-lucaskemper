@@ -1,6 +1,6 @@
 # Exploring New AI Boundaries with the Claude Computer Use API
 
-**October 27, 2024 | Lucas Kemper | MScFin Student, HEC Lausanne**
+
 
 **NOTE: STILL IN REDACTION**
 
