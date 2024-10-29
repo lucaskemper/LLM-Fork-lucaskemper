@@ -4,8 +4,6 @@
 
 📄 **Resume**: Access my detailed [resume](https://rebrand.ly/f6nwr7j) here.
 
-Related projects: [Exploring New AI Boundaries with the Claude Computer Use API](https://rebrand.ly/onwl26j)
-
 
 Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am customizing a fork of **Lobe Chat** to develop an innovative AI-powered framework for advanced financial analysis. Initiated on *October 20, 2024*, this project integrates state-of-the-art AI tools with finance-specific features designed to streamline data-driven analysis in **finance, investment,** and **accounting**.
 
