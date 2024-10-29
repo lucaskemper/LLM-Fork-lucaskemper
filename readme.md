@@ -33,7 +33,7 @@ Inspired by my interests in **quantitative finance**, **AI**, and **LLMs**, I am
    - **PDF Generation & Code Execution**: Embedding functionalities for on-demand report generation and real-time code execution (Status: Completed).
    - **OpenBB Integration**: Integrate **OpenBB** for in-chat quantitative finance tools, facilitating deeper investment insights and the potential for AI-driven trading strategy recommendations (Status: In Progress).
    - **Cost Optimization Measures**: Experiment with caching strategies and intelligent API call routing to minimize expenses while maintaining performance.
-   - **Website Release (Limited Demo)**: Launch a website with a limited demo version, offering users a preview of the core features and functionality for early feedback.
+   - **Website Release (Limited Demo)**: Launch a website with a limited demo version, offering users a preview of the core features and functionality for early feedback (Status: In Progress).
 
 
 #### Mid-Term (0.5 - 1.5 Months)
