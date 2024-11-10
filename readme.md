@@ -23,8 +23,7 @@ Inspired by my interests in **quantitative finance** 📊, **AI** 🧠, and **LL
 - **Model Complexity Constraints**: Addressing limitations in context length for complex financial queries (currently experimenting with **Hugging Face**) 🔄
 - **File Upload Bug**: Finalizing network configurations for seamless file processing (Status: ✅ Completed)
 - **API Cost Optimization**: Focusing on cost-efficient API usage 💰
-- **Data Quality**: Enhancing data input accuracy, essential for quality financial analysis 📊 (Status: ✅ Completed) un
-
+- **Data Quality**: Enhancing data input accuracy, essential for quality financial analysis 📊 (Status: ✅ Completed) 
 ---
 
 ### 🗺️ Project Roadmap
