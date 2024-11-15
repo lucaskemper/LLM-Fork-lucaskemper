@@ -2,7 +2,7 @@
 
 **Lucas Kemper**  – First Year MScFin Student at HEC Lausanne, Switzerland 🇨🇭  
 
-Inspired by my interests in **quantitative finance** 📊, **AI** 🧠, and **LLMs** 💬, I am customizing a fork of **Lobe Chat** to develop an innovative AI-powered framework for advanced financial analysis. Initiated on *October 20, 2024*, this project integrates state-of-the-art AI tools with finance-specific features designed to streamline data-driven analysis in **finance, investment,** and **accounting**.
+Inspired by my interests in **quantitative finance** 📊, **AI** 🧠, and **LLMs** 💬, I am customizing a fork of **Lobe Chat** to develop an innovative AI-powered framework for advanced financial analysis. Initiated on *October 20, 2024*, this project integrates state-of-the-art AI tools with finance-specific features designed to streamline data-driven analysis in **investment** and **accounting**.
 
 > *Note*: *The code remains private to maintain confidentiality as I refine and enhance this framework.* 🔒
 
